@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Auth UI</string>
+    <string name="text_sign_in">Data Sync</string>
+    <string name="text_sign_in_subtitle">Welcome, \nPlease sign in to continue</string>
+    <string name="text_hint_email_field">Email</string>
+    <string name="text_hint_user_field">Username</string>
+    <string name="text_hint_password_field">Password</string>
+    <string name="text_btn_forgot_password">Forgot password?</string>
+    <string name="text_btn_sign_in">SIGN IN</string>
+    <string name="textView">--- Sign in with ---</string>
+    <string name="text_not_have_an_account">Don\'t have an account yet? <b><font color='#2b8036'>SIGN UP</font></b></string>
+    <string name="text_sign_up_subtitle">Welcome, \nJoin us today</string>
+    <string name="text_sign_up_title">SIGN UP</string>
+    <string name="text_recovery">Password Recovery</string>
+    <string name="text_hint_confirm_password_field">Confirm your password</string>
+    <string name="text_forgot_password">Please enter your email, we will \nsend you code to reset your password</string>
+    <string name="text_privacy_and_policy">By registering you are agreeing to our\n<b><font color='#f1234f'>Privacy</font></b> and <b><font color='#f1234f'>Policy</font></b></string>
+    <string name="text_btn_sign_up">SIGN UP</string>
+    <string name="text_send">SEND</string>
+    <string name="text_have_an_account">Already have an account? <b><font color='#f1234f'>SIGN IN</font></b></string>
+</resources>
